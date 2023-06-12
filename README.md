@@ -18,4 +18,4 @@ You have built in tech stacks for:
 ## How to run pre-packaged teck stacks:
 
 - [Docker Hub - List of tech stacks](https://hub.docker.com/u/ilab247)
-- [how to run software image/techstack](https://github.com/iLab247/startHere/blob/main/how%20to%20run%20techstack.md)
+- [how to run software image/techstack](https://github.com/sumit3047/workshop2023/blob/main/howto.md)
