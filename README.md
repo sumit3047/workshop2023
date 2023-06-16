@@ -1,8 +1,8 @@
-# iLab247 - the next generation learning environment
+# next generation learning environment
 
 ## Introduction
 
-Welcome to iLab247.  iLab247 provides guidance on two major things:
+Welcome to sumit3047.  it provides guidance on two major things:
 
 1. Code repos for learning topics  
 2. Tech stacks for Learning & Development
