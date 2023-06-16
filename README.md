@@ -1,8 +1,8 @@
-# next generation learning environment
+# Next generation learning environment
 
 ## Introduction
 
-Welcome to sumit3047.  it provides guidance on two major things:
+Welcome to this space ,it provides guidance on two major things:
 
 1. Code repos for learning topics  
 2. Tech stacks for Learning & Development
